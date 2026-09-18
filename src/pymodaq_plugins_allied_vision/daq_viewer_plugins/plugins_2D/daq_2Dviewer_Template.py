@@ -10,7 +10,7 @@ from pymodaq.utils.data import DataFromPlugins
 #  TODO:
 #  Replace the following fake import with the import of the real Python wrapper of your instrument. Here we suppose that
 #  the wrapper is in the hardware directory, but it could come from an external librairy like pylablib or pymeasure.
-from pymodaq_plugins_template.hardware.python_wrapper_file_of_your_instrument import PythonWrapperObjectOfYourInstrument
+from pymodaq_plugins_allied_vision.hardware.python_wrapper_file_of_your_instrument import PythonWrapperObjectOfYourInstrument
 
 # TODO:
 # (1) change the name of the following class to DAQ_2DViewer_TheNameOfYourChoice
